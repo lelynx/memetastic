@@ -92,6 +92,8 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import io.github.gsantner.memetastic.R;
 
+// This is a comment to test the Git Pull proces from Android Studio.
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, ViewPager.OnPageChangeListener, BottomNavigationView.OnNavigationItemSelectedListener {
     public static final int REQUEST_LOAD_GALLERY_IMAGE = 50;
